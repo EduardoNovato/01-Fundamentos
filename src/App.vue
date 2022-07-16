@@ -1,5 +1,4 @@
 <script>
-
 export default {
   data: () => ({
     contador: 0
@@ -22,7 +21,7 @@ export default {
 <template>
   <div class="container">
     <img src="./assets/chayanne.jpg" alt="" height="275" width="235" />
-    <h1>Hola carambola la run run</h1>
+    <h1>Holi Maybe ❤️🍫</h1>
 
     <hr />
 
